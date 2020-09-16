@@ -1,5 +1,17 @@
 header
 {
     text-align: center;
+    font-size: 30px;
 }
-body
+.dbd
+{
+    font-size: 20px;
+}
+article
+{
+    font-size: 20px;
+}
+h1
+{
+    font-size: 30px;
+}
