@@ -2,6 +2,7 @@ header
 {
     text-align: center;
     font-size: 30px;
+    
 }
 .dbd
 {
@@ -14,4 +15,18 @@ article
 h1
 {
     font-size: 30px;
+    color:
+}
+.title2
+{
+    text-align: end;
+}
+.title3
+{
+
+}
+body
+{
+    background-color: black;
+    color: white;
 }
