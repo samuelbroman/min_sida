@@ -7,6 +7,9 @@ header
 .dbd
 {
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
 }
 article
 {
@@ -14,16 +17,17 @@ article
 }
 h1
 {
-    font-size: 30px;
-    color:
+    font-size: 30px; 
 }
 .title2
 {
     text-align: end;
 }
-.title3
+.fäktning
 {
-
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
 }
 body
 {
