@@ -38,3 +38,8 @@ a
 {
     color: white;
 }
+.länk{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
