@@ -1,20 +1,18 @@
 header
 {
-    text-align: center;
-    font-size: 30px;
-    
+    font-size: 20px;
+    background-color: rgb(37, 32, 32);
 }
 .dbd
 {
-    font-size: 20px;
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
 }
-article
-{
-    font-size: 20px;
+.image{
+    width: 40vw;
 }
+
 h1
 {
     font-size: 30px; 
@@ -37,9 +35,30 @@ body
 a
 {
     color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:red;
 }
 .länk{
     display: flex;
     list-style: none;
-    justify-content: space-around;
+    justify-content: space-between;
+}
+footer
+{
+    font-size: 20px;
+    background-color: rgb(37, 32, 32);
+}
+article{
+    font-size: 20px;
+}
+ul li{
+    text-decoration: none;
+}
+.länk2{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    flex-direction: row;
 }
